@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <link rel="stylesheet" type = "text/css" href="resumecss.css">	
+  </head>
+ <body>
+ <div class="jumbotron">
+   <div id="header">
+    <ul>
+	  <li>EDUCATION</li>
+	  <li>QUALIFICATIONS AND SKILLS</li>
+	  <li>EXTRA CURRICULAR ACTIVITIES</li>
+	</ul>
+   </div>
+   <div class="left">
+   </div>
+   
+   <div id="main back">
+     <div class="skills">
+    <!--container 1-->
+	  <h6>UnderGraduate</h6>
+	    <p>BSc. in Computer Science and Technology, Second Class</p>
+	  <h6>Technical Skills</h6>
+	    <ul>
+		  <li>Java (Intermediate)</li>
+		  <li>Android (Intermediate)</li>
+		  <li>Html & CSS</li>
+		  <li>zOS & zVM</li>
+		</ul>
+     </div>   
+   
+     <div class="positions">
+     <h6>August 2014 - September 2015</h6>
+	   <p>Google Student Ambassador (Lead Student Ambassador) - Maseno University</p>
+	 <h6>January 2013 - Decembder 2014</h6>
+	   <p>Founder, Waltron Ltd</p>
+	 <h6>January 2006 - November 2006</h6>
+	 <p>Junior Achievement Club Treasurer</p>
+     </div>
+   
+     <div class="extracurricular">
+    <h4>EXTRA CURRICULAR ACTIVITIES</h4>
+	   <p>Voluntary Computer Science for High School Program (#CS4HS) Volunteer, Lakehub - Led a
+team in introducing the Android development course to high school students at a local high
+school.</p>
+
+
+    <h5 class="pull-left">Competitive</h5>
+	   <ul>
+	      <li>IBM Master The Mainframe 2015 Finalist.</li>
+		  <li>Safaricom Appwiz Challenge 2013 Finalist</li>
+		  <li>Project UpStart 2013 Lead Develper for team MuWAC</li>
+		  <li>Intel Gaming Challenge(played Tank for Team BuzzKill)</li>
+	   </ul>
+	
+    <h5>University Clubs</h5>
+	    <ul>
+		  <li>Android Study Group(Facilitator)</li>
+		  <li>Google Students Club(Chairman)</li>
+		  <li>Intel Student Partners</li>
+		</ul>
+	   
+   </div>
+   </div>
+   <div id="footer">
+    <p>
+	The footer...Contact details.
+	</p>
+	 <ul>
+	   <li>Call me 0726805557</li>
+	   <li>Shoot me an <a href = "wobadha@gmail.com">email</a></li>
+	   <li>Check me out on <a href = "ke.linkedin.com/in/walterobadha">LinkedIn</a></li>
+	   <li>Prefer <a href="nig3l.uno">skype</a>? IM me</li>
+	 </ul>
+   </div>
+</div>   
+</body>
+</html>
