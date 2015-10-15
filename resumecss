@@ -1,0 +1,40 @@
+div{
+	border-radius:5px;
+}
+
+.left{
+	position:relative;
+	float:left;
+	background-color:white;
+    margin-top:50px;
+    margin-bottom:10px;
+	width:10px;
+}
+
+#header{
+	background-color:purple;
+}
+p {
+    font-family: Arial;
+}
+.skills{
+	background-color:green;
+	border: 2px dotted orange;	
+}
+.positions{
+	background-color:red;
+}
+.extracurricular{
+	background-color:yellow;
+}
+#footer{
+	background-color:grey;
+}
+ul{
+	margin-top:10px;
+}
+.back{
+	background-color: #FE642E;
+	position:relative;
+	float:right;
+}
